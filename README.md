@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 ## #30NitesOfCode:
-  (https://www.codedex.io/@patriciada62323/30-nites-of-code)  
-  ![@patriciada62323 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=patriciada62323)
-
+  [Check out my progress!](https://www.codedex.io/@sugastd/30-nites-of-code)  
+  ![@sugastd #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sugastd)
 <!--
 **patdfb/patdfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
