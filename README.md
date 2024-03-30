@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@patriciada62323/30-nites-of-code)  
+  (https://www.codedex.io/@patriciada62323/30-nites-of-code)  
   ![@patriciada62323 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=patriciada62323)
 
 <!--
