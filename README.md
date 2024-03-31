@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@sugastd/30-nites-of-code)  
-  ![@sugastd #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sugastd)
-<!--
-**patdfb/patdfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
