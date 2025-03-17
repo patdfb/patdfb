@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Patricia's GitHub stats](https://github-readme-stats.vercel.app/api?patdfb=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Patricia's GitHub stats](https://github-readme-stats.vercel.app/api?username=patdfb)](https://github.com/anuraghazra/github-readme-stats)
