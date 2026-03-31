@@ -45,30 +45,62 @@ I hold a **Bachelor's in Computer Science** from the same university.
 
 <div align="center">
 
-### 🎓 Bachelor's Projects
 
-| Project | Class |
-|--------|-------------|
-| [Fitness Tracker](https://github.com/patdfb/projetoPOO) | Object-Oriented Programming |
-| [Algebra of Programming](https://github.com/patdfb/projetoCP) | Algebra of Programming |
-| [Computational Logic](https://github.com/patdfb/LogicaComputacional) | Computational Logic |
-| [Rissol Language](https://github.com/patdfb/projetosPLC) | Languages & Computation |
-| [Academic Sports Competition](https://github.com/patdfb/projetoBD) | Databases |
-| [Solar System](https://github.com/patdfb/projetoCG) | Computer Graphics |
-| [2 Player Game](https://github.com/patdfb/projetoPC) | Concurrent Programming |
+<table>
+<tr>
+<th colspan="2">🎓 Bachelor's Projects</th>
+<th colspan="2">🎓 Master's Projects</th>
+</tr>
+<tr>
+<th>Project</th>
+<th>Class</th>
+<th>Project</th>
+<th>Class</th>
+</tr>
+<tr>
+<td><a href="https://github.com/patdfb/projetoPOO">Fitness Tracker</a></td>
+<td>Object-Oriented Programming</td>
+<td><a href="https://github.com/patdfb/projetoDAA">Porto's road traffic</a></td>
+<td>Data and Machine Learning</td>
+</tr>
+<tr>
+<td><a href="https://github.com/patdfb/projetoCP">Algebra of Programming</a></td>
+<td>Algebra of Programming</td>
+<td><a href="https://github.com/patdfb/projeto_pictuRAS">PictuRAS</a></td>
+<td>Requirements and Software Architectures</td>
+</tr>
+<tr>
+<td><a href="https://github.com/patdfb/LogicaComputacional">Computational Logic</a></td>
+<td>Computational Logic</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/patdfb/projetosPLC">Rissol Language</a></td>
+<td>Languages & Computation</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/patdfb/projetoBD">Academic Sports Competition</a></td>
+<td>Databases</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/patdfb/projetoCG">Solar System</a></td>
+<td>Computer Graphics</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/patdfb/projetoPC">2 Player Game</a></td>
+<td>Concurrent Programming</td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-</div>
-
----
-
-<div align="center">
-
-### 🎓 Master's Projects
-
-| Project | Class |
-|--------|-------------|
-| [Porto's road traffic](https://github.com/patdfb/projetoDAA) | Data and Machine Learning |
-| [PictuRAS](https://github.com/patdfb/projeto_pictuRAS) | Requirements and Software Architectures |
 
 </div>
 
