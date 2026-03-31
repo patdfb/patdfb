@@ -30,25 +30,22 @@
 
 ---
 
-## 🔬 About Me
+<div align="center">
+
+### About Me
 
 I'm currently pursuing my **Master's in Software Engineering** at the University of Minho,
-specialising in **Formal Methods** and **Software Development, Validation, and Maintenance**.
+specialising in **Formal Methods of Programming** and **Software Development, Validation, and Maintenance**.
 
 I hold a **Bachelor's in Computer Science** from the same university.
 
----
-
-## 🎓 Master's Projects
-
-| Project | Class |
-|--------|-------------|
-| [Porto's road traffic](https://github.com/patdfb/projetoDAA) | Data and Machine Learning |
-| [PictuRAS](https://github.com/patdfb/projeto_pictuRAS) | Requirements and Software Architectures |
+</div>
 
 ---
 
-## 🎓 Bachelor's Projects
+<div align="center">
+
+### 🎓 Bachelor's Projects
 
 | Project | Class |
 |--------|-------------|
@@ -60,14 +57,30 @@ I hold a **Bachelor's in Computer Science** from the same university.
 | [Solar System](https://github.com/patdfb/projetoCG) | Computer Graphics |
 | [2 Player Game](https://github.com/patdfb/projetoPC) | Concurrent Programming |
 
+</div>
+
 ---
-
-
-## 📊 Most Used Languages
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patdfb&theme=rose_pine&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🎓 Master's Projects
+
+| Project | Class |
+|--------|-------------|
+| [Porto's road traffic](https://github.com/patdfb/projetoDAA) | Data and Machine Learning |
+| [PictuRAS](https://github.com/patdfb/projeto_pictuRAS) | Requirements and Software Architectures |
+
+</div>
+
+---
+
+<div align="center">
+
+### Other Projects
+
+| Project | Class |
+|--------|-------------|
+| [Cozy Hearts](https://github.com/patdfb/cozyHearts) | Tectstorm Hackathon - 2nd Place |
 
 </div>
 
