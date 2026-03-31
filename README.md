@@ -17,7 +17,7 @@
 
 # Hi, I'm Patrícia! 👋
 
-*Software Engineer Student · Braga, Portugal*
+*Software Engineering Student · Braga, Portugal*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-patriciadfbastos-b5838d?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciadfbastos)
 [![Email](https://img.shields.io/badge/Email-patriciadanibastos@gmail.com-ffb4a2?style=flat-square&logo=gmail&logoColor=white)](mailto:patriciadanibastos@gmail.com)
@@ -80,7 +80,7 @@ I hold a **Bachelor's in Computer Science** from the same university.
 
 | Project | Class |
 |--------|-------------|
-| [Cozy Hearts](https://github.com/patdfb/cozyHearts) | Tectstorm Hackathon - 2nd Place |
+| [Cozy Hearts](https://github.com/patdfb/cozyHearts) | Tecstorm Hackathon - 2nd Place |
 
 </div>
 
